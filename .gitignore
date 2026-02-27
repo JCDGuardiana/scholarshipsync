@@ -1,4 +1,16 @@
-api/ 
-uploads/
+# Database and Secrets
 config/
+.env
+
+# API and Logic
+api/
+
+# Dependencies
 vendor/
+
+# User Uploads
+uploads/
+
+# OS Metadata
+.DS_Store
+Thumbs.db
